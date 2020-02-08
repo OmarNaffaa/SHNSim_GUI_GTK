@@ -1,0 +1,35 @@
+label#title {
+	color: #1e4d2b;
+	background-color: #d8d8d8;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 35px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-width: 5px;
+}
+
+label {
+	color: #000000;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+}
+
+button {
+	color: #0000a0;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-weight: bold;
+	border-width: 3px;
+}
+
+entry {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
