@@ -3,7 +3,7 @@ label#title {
 	background-color: #d8d8d8;
 	font-family: "Times New Roman", Times, serif;
 	font-weight: bold;
-	font-size: 35px;
+	font-size: 25px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-left: 5px;
@@ -20,7 +20,7 @@ label {
 button {
 	color: #0000a0;
 	font-family: "Times New Roman", Times, serif;
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: bold;
 	border-width: 3px;
 }
